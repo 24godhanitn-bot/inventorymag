@@ -1,4 +1,3 @@
-# inventorymag
 <div align="center">
 📦 InventoryPro
 Inventory / Product Management System
@@ -187,7 +186,7 @@ ESP32 and Ultrasonic Sensor appear on the Low Stock page.
 📷 Barcode / QR scanning
 ---
 👤 Author
-Atul Nandanwar
+THALISHA GODHANI
 B.Tech, Electronics & Communication Engineering
 ![GitHub](https://github.com/atul-nandanwar)
 ---
